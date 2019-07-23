@@ -1,6 +1,6 @@
 # App-meteo
 
-Une application météo réaliser en cours en __React Native
+Une application météo réaliser en cours en __React Native__
 
 
 Installation
